@@ -8,6 +8,7 @@ Transformers 4.5.0 or later
 You can install the required packages using pip:
 
 pip install torch transformers
+
 Dataset
 The dataset should be a text file with one sample per line. The path to this file is specified in the file_path variable in the script.
 
